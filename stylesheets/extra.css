@@ -1,0 +1,7 @@
+.md-typeset h1 + p {
+  margin-top: -0.8rem;
+}
+
+.md-grid {
+  max-width: 1500px;
+}
