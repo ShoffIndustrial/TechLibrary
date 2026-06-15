@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.shoffindustrial.com/</loc>
-         <lastmod>2026-06-13</lastmod>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
          <loc>https://docs.shoffindustrial.com/TOC/</loc>
-         <lastmod>2026-06-13</lastmod>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
          <loc>https://docs.shoffindustrial.com/MQTT/specNotesMQTT/</loc>
-         <lastmod>2026-06-13</lastmod>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
          <loc>https://docs.shoffindustrial.com/Refreshers/binaryCounting/</loc>
-         <lastmod>2026-06-13</lastmod>
+         <lastmod>2026-06-15</lastmod>
     </url>
     <url>
          <loc>https://docs.shoffindustrial.com/Refreshers/hexCounting/</loc>
-         <lastmod>2026-06-13</lastmod>
+         <lastmod>2026-06-15</lastmod>
     </url>
 </urlset>
